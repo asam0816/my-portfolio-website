@@ -1,7 +1,3 @@
-"homepage": "https://<asam0816>.github.io/<my-portfolio-website>"
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
 }
 
 {
